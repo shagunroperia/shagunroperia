@@ -51,5 +51,11 @@ Feel free to reach out to me!
 - ✉️ [Email](mailto:shagun.roperia@sjsu.edu)
 
 ---
+---
+## 🌟 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=shagunRoperiaSjsu&color=blue)
+
+---
 
 ⭐️ **Feel free to explore my repositories and contribute if you'd like!**
