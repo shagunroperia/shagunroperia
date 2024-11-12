@@ -1,4 +1,4 @@
-<!-- # 🌟 Shagun's GitHub Profile
+ # 🌟 Shagun's GitHub Profile
 
 **Data Science Graduate Student @SJSU**  
 *5+ years of experience in the software development industry*
@@ -39,7 +39,7 @@ I’m passionate about Data Science, Back-End Development, and Cloud Technologie
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shagunRoperiaSjsu&layout=compact&theme=radical)](https://github.com/shagunRoperiaSjsu)
 
 ---
--->
+
 <!--
 ## 📫 Let's Connect
 
