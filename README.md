@@ -1,4 +1,4 @@
-# 🌟 Shagun's GitHub Profile
+<!-- # 🌟 Shagun's GitHub Profile
 
 **Data Science Graduate Student @SJSU**  
 *5+ years of experience in the software development industry*
@@ -59,3 +59,4 @@ Feel free to reach out to me!
 ---
 
 ⭐️ **Feel free to explore my repositories and contribute if you'd like!**
+-->
