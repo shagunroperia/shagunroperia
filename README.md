@@ -40,14 +40,14 @@ I’m passionate about Data Science, Back-End Development, and Cloud Technologie
 
 ---
 -->
-
+<!--
 ## 📫 Let's Connect
 
 Feel free to reach out to me!
 
-<!--
+
 - 🌐 [Portfolio Website](https://your-website.com)
--->
+
 - ✉️ [Email](mailto:shagun.roperia@sjsu.edu)
 
 ---
